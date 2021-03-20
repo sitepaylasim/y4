@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["YETKILI ID"],
+        "ACTIVITY_TEXT": "𐌞anity Voice",
+        "GUILD_ID": "709069396353613874",
+        "VOICE_CHANNEL": "795510801153654794",
+        "MIN_STAFF_ROLE": "721359314731663401"
+    },
+    "FILES": {
+        "WELCOME": "ses/hosgeldin.mp3",
+        "STAFF": "ses/yetkili.mp3"
+    },
+    "TOKEN": "ODAwMTk4NzI0NzM0Mjg3OTAz.YAOpIg.r7-MjGcNQcUhG43INIGVorhHWC0"
+} 
